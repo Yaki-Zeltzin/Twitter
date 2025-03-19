@@ -1,17 +1,12 @@
-##Clone Twitter
+  # Clone Twitter 
 
-*[./project.png]
+## Twitter clone, designed with HTML and CSS
 
-*[Descripción del proyecto](#Twitter clone, designed with HTML and CSS)
+![project](https://github.com/user-attachments/assets/8fb800b6-bbc9-4c39-b723-80f03d557434)
 
-*[Estado del proyecto](#Finished project)
-
-*[Características de la aplicación y demostración](#Project made with HTML and CSS)
-
-*[Acceso al proyecto](#acceso-proyecto)
-
-*[Tecnologías utilizadas](#HTML and CSS)
-
-*[Personas-Desarrolladores del Proyecto](#Yaki Romero)
-
-*[Conclusión]()
+### Sections:
+_*Sidebar_
+_*Feed_  
+_*Tweet Box_  
+_*Posts_  
+_*Widgets_
